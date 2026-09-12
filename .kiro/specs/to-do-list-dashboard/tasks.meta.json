@@ -1,0 +1,360 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Create `index.html` shell with four `<section class=\"card\">` landmarks": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179898666
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179905200
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180093649
+      }
+    ],
+    "1.2 Write `css/style.css` with CSS custom properties, responsive grid, and all widget base styles": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179898786
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179909893
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180100080
+      }
+    ],
+    "2.1 Write `initTheme()` IIFE in `js/app.js`": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179898868
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180106778
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180519905
+      }
+    ],
+    "3.1 Write core `initGreeting()` IIFE — clock, date, and greeting text": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179898966
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180111175
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180525367
+      }
+    ],
+    "3.2 Extend `initGreeting()` with custom-name functionality": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899038
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180548377
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182159932
+      }
+    ],
+    "4. Checkpoint — Greeting and theme foundations": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899112
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182229951
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182321470
+      }
+    ],
+    "5.1 Write core `initTimer()` IIFE — countdown, start/stop/reset": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899183
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180116447
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180530955
+      }
+    ],
+    "5.2 Extend `initTimer()` with custom Pomodoro duration": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899252
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180553611
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182208750
+      }
+    ],
+    "6. Checkpoint — Timer complete": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899316
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182235042
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182326622
+      }
+    ],
+    "7.1 Write core `initTodo()` IIFE — add, toggle, delete, edit, persistence": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899392
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180121787
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180535674
+      }
+    ],
+    "7.2 Add duplicate-task prevention to `initTodo()`": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899465
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180559939
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182165737
+      }
+    ],
+    "7.3 Add sort functionality to `initTodo()`": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899543
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180565048
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182170604
+      }
+    ],
+    "8. Checkpoint — To-Do list complete": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899596
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182241243
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182331498
+      }
+    ],
+    "9.1 Write `initLinks()` IIFE — add, delete, open in new tab, persistence": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899722
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180127014
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180541620
+      }
+    ],
+    "10. Checkpoint — Quick links complete": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899775
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182248715
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182336261
+      }
+    ],
+    "11.1 Compose final `js/app.js` — order and wrap all IIFEs": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899839
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182359511
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182507595
+      }
+    ],
+    "11.2 Final integration verification — cross-cutting checks": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899900
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182513252
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182553409
+      }
+    ],
+    "12. Final checkpoint — all tests pass and the dashboard is complete": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789179899955
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182863305
+      },
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789183037019
+      }
+    ],
+    "1. Scaffold static file structure and CSS foundations": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180100224
+      }
+    ],
+    "2. Implement Theme IIFE (`initTheme`)": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180519962
+      }
+    ],
+    "9. Implement Quick Links IIFE (`initLinks`)": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789180541713
+      }
+    ],
+    "3. Implement Greeting Widget IIFE (`initGreeting`)": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182160079
+      }
+    ],
+    "7. Implement To-Do List IIFE (`initTodo`)": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182170740
+      }
+    ],
+    "5. Implement Focus Timer IIFE (`initTimer`)": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182208846
+      }
+    ],
+    "11. Wire all IIFEs together and integrate into `js/app.js`": [
+      {
+        "executionId": "1ce08162-f27b-45bb-88ed-d72d4c79379f",
+        "chatSessionId": "sess_c5748d67-17f8-431c-99f2-ca78d3872834",
+        "timestamp": 1789182553526
+      }
+    ]
+  }
+}
